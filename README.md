@@ -39,7 +39,7 @@ Contains source code for reproducing experimental results of the ICML2024 paper 
 - Download MNIST data from: http://yann.lecun.com/exdb/mnist/.
 - Extract the files and place in the current directory (or make sure to modify PATH environment variable)
 - To reproduce Fig. 2 and Fig. 4:
-  - Launch run_experiments.py with `--data_path` and `--save_path set properly. Some .pickle files should be saved in the 
+  - Launch run_experiments.py with `--data_path` and `--save_path` set properly. Some .pickle files should be saved in the 
    directory indicated in `--save_path`.
   - Launch run_experiments.py again with `--mode 'plot'`. 
 - To reproduce Fig. 5 and Fig. 6:
