@@ -1,5 +1,5 @@
-# Federated Learning: Lessons from Generalization Error Analysis
-Contains source code for reproducing experimental results of the ICML2024 paper "Federated Learning: Lessons from Generalization Error Analysis" by Milad Sefidgaran, Romain Chor, Abdellatif Zaidi and Yijun Wan.
+# Lessons from Generalization Error Analysis of Federated Learning: You May Communicate Less Often!
+Contains source code for reproducing experimental results of the ICML2024 paper "Lessons from Generalization Error Analysis of Federated Learning: You May Communicate Less Often!" by Milad Sefidgaran, Romain Chor, Abdellatif Zaidi and Yijun Wan.
 
 
 ## FSVM code
