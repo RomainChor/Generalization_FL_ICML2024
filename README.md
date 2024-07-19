@@ -1,5 +1,6 @@
 # Lessons from Generalization Error Analysis of Federated Learning: You May Communicate Less Often!
 Contains source code for reproducing experimental results of the ICML2024 paper "Lessons from Generalization Error Analysis of Federated Learning: You May Communicate Less Often!" by Milad Sefidgaran, Romain Chor, Abdellatif Zaidi and Yijun Wan.
+The paper can be found [here.](https://arxiv.org/abs/2306.05862)
 
 
 ## FSVM code
